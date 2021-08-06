@@ -1,1 +1,3 @@
 this is first example
+
+now trying other commit option for different result
